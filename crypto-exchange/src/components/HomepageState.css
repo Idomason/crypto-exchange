@@ -1,0 +1,11 @@
+.homepageState button {
+  padding: 8px 55px;
+  outline: none;
+  border: 1px solid gray;
+  font-family: 'Nunito', sans-serif;
+}
+
+.buy {
+  color: #fff;
+  background-color: #3377c0;
+}

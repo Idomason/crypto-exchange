@@ -1,0 +1,16 @@
+.why {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.why ul {
+  list-style-type: none;
+}
+
+.why ul li {
+  display: flex;
+  text-align: justify;
+  padding: 20px;
+}

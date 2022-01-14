@@ -1,0 +1,11 @@
+.testimonials {
+  margin-top: 30px;
+  width: 100%;
+  color: #fff;
+  background-color: #3377c0;
+  padding: 60px;
+}
+
+.testimonials h2 {
+  padding: 20px;
+}

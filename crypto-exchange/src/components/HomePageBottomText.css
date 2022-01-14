@@ -1,0 +1,10 @@
+.homePageBottomText p {
+  color: #1e3a8d;
+  padding-top: 30px;
+  font-weight: 500;
+}
+
+.homePageBottomText .boldParagraph {
+  color: #000;
+  font-size: 32px;
+}

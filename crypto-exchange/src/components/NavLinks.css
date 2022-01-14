@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.navLinks ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navLinks ul li {
+  margin-left: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 10px;
+}
+
+.navLinks ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.navLinks ul li a:hover {
+  cursor: pointer;
+  color: #3377c0;
+}
+
+.navLinks .createAccount {
+  background-color: #3377c0;
+  border-radius: 5px;
+}
+
+.navLinks .createAccount a {
+  color: #fff;
+}
+
+.navLinks .createAccount a:hover {
+  color: #fff;
+}
